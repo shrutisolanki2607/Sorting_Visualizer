@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   /* background: linear-gradient(rgb(28, 185, 247),rgb(10, 134, 192),rgb(6, 98, 151),rgb(7, 7, 90));*/
+   background-color: #BBE9FF;
+   color: #0C1844;
+}
+
+button{
+    background-color: #0C1844;
+    width: auto;
+    height: 30px;
+    color: white;
+    cursor: pointer;
+}
